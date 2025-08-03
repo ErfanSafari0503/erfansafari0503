@@ -5,8 +5,8 @@
 <h2 align="left">I'm Erfan   <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="30" />, I'm a Frontend Developer
 </h2>
 
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me?
+- 🌱 I am currently learning more about frontend development.
+- 📫 What is the best way to contact me? <a href="https://t.me/Erfy_Elf">Telegram</a>
 - 😄 Pronouns: He/Him
 
 <p align="left">
