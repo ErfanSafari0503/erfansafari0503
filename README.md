@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Everyone&reversal=false&textBg=false&animation=fadeIn"/>
 </p>
 
-<h2 align="left">I'm Erfan   <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="30" />, I'm a Frontend Developer
+<h2 align="left">I'm Erfan   <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Hi.gif" width="30" />, a creative front-end developer who thinks in components and lives in the browser.
 </h2>
 
 - 🌱 I am currently learning more about frontend development.
