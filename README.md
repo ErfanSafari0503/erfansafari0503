@@ -58,7 +58,7 @@ currently_learning:
 current_project: 
   name: VibeAnalyze
   description: AI-powered platform for analyzing social media sentiment
-fun_fact: "I drink coffee  like it's a debugging tool ☕️"
+fun_fact: "I drink coffee like it's a debugging tool ☕️"
 location: Tehran, Iran
 contact:
   email: erfansafari0503@gmail.com
