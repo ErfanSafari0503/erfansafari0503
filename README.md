@@ -36,7 +36,7 @@
 Here are some of the technologies I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,ts,react,redux,sentry,vite,webpack,pnpm,bun,git" />
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,styledcomponents,tailwind,ts,react,sentry,vite,pnpm,bun,git" />
 </p>
 
 ---
