@@ -6,11 +6,11 @@
 </h2>
 
 - 🌱 I am currently learning more about frontend development.
-- 📫 What is the best way to contact me? <a href="https://t.me/Erfy_Elf">Telegram</a>
+- 📫 What is the best way to contact me? <a href="https://t.me/ErfanSafari0503">Telegram</a>
 - 😄 Pronouns: He/Him
 
 <p align="left">
-  <a href="https://t.me/Erfy_Elf" target="_blank">
+  <a href="https://t.me/ErfanSafari0503" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:erfansafari0503@gmail.com" target="_blank">
@@ -36,7 +36,7 @@
 Here are some of the technologies I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sass,bootstrap,styledcomponents,tailwind,ts,react,sentry,vite,pnpm,bun,git" />
+  <img src="https://skillicons.dev/icons?i=sass,bootstrap,styledcomponents,tailwind,js,ts,react,sentry,vite,pnpm,bun,git" />
 </p>
 
 ---
@@ -50,18 +50,10 @@ specialties:
   - React Ecosystem
   - UI/UX Integration
   - Component Architecture
-currently_learning:
-  - Advanced React Testing (RTL, Cypress, Playwright)
-  - Next.js and Server Components
-  - Micro-Frontend Architecture
-  - Design Systems and Accessibility
-current_project: 
-  name: VibeAnalyze
-  description: AI-powered platform for analyzing social media sentiment
 fun_fact: "I drink coffee like it's a debugging tool ☕️"
 location: Tehran, Iran
 contact:
   email: erfansafari0503@gmail.com
   linkedin: linkedin.com/in/erfan-safari-8125802a1
   github: github.com/ErfanSafari0503
-  telegram: t.me/Erfy_Elf
+  telegram: t.me/ErfanSafari0503
